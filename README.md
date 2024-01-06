@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishnuspillai
-- 👀 I’m interested in mixing codes with Proteins
+- 👀 I’m interested in mixing codes with Proteins and mining minerals
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with someone who knows something
   
