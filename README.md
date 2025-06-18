@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An UNEMPLOYED NGS Specialised Bioinformatician and Biotechnologist from India</h3>
 
 - 🔭 I’m currently working on **Bioinformatics**
 
@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **NGS Data Analytics**
 
-- 💬 Ask me about **Biotechnology**
+- 💬 Ask me anything about **Biotechnology**
 
 - 📫 How to reach me **vishnuspillaires@gmail.com**
 
