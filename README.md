@@ -80,12 +80,12 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
 
 ---
 
-## 🎮 Hobbies & Fun
+## 🎮 Avocations
 
 
 - 💸 Stock Markets and Algorithmic Trading Enthusiast
 - 📸 Photography  
-- 🍳 I cook good food
+- 🍳 I Cook Good Food
 
 ---
 
@@ -93,7 +93,7 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&animation=twinkling" />
 </p>
 <p align="center">
-  <b>😊 Thanks for visiting my profile! Have a great day! 😊</b>
+  <b>😊 Let's be friends, connect and commit to new codes...! 😊</b>
 </p>
 
 <!--
