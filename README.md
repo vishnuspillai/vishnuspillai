@@ -16,22 +16,22 @@
 
 ---
 
-<blockquote align="center">"Science is a way of thinking much more than it is a body of knowledge." — Carl Sagan</blockquote>
+<blockquote align="center">"I'm the product of my parents' dreams and aspirations."</blockquote>
 
 ---
 
-## 🧬 About Me
+## 💻 Who Am I...!
 
 
 <p align="center">
   <b>
     <span style="color:#a259f7;">
-      Bioinformatics Explorer | MGS in Epigenetics | Genomics | Transcriptomics | ML Enthusiast
+      Bioinformatics | NGS | Biotechnology | Epigenetics | Genomics | Transcriptomics | ML Enthusiast
     </span>
   </b>
 </p>
 
-As a <b>Masters Bioinformatics student at the University of Kerala</b>, with another <b>Masters in Biotechnology</b> I am passionate about unraveling the secrets of life through the synergy of computational power and biological insight and bridging the gap between them. My academic journey is centered at the intersection of <b>Next Generation Sequencing</b> and <b>genomics</b>, where I strive to turn complex data into meaningful biological discoveries.
+As a <b>Masters Bioinformatics student at the University of Kerala</b>, with another <b>Masters in Biotechnology</b> I am passionate about unraveling the secrets of life through the synergy of computational power and biological insights and bridging the gap between them. My academic journey is centered at the intersection of <b>Next Generation Sequencing</b> and <b>Transcriptomics</b>, where I strive to turn complex data into meaningful biological discoveries.
 
 - <b>🔬 Focus Areas:</b> Advanced NGS Data Analysis for biological data, genomics, DNA encoding & decoding  
 - <b>🤝 Collaboration:</b> ML for biological datasets, bioinformatics pipelines.  
@@ -50,7 +50,7 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
 ## 🚀 Tools, Languages & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,tensorflow,pytorch,jupyter,github,git,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=r,rstudio,python,linux,bash,tensorflow,pytorch,jupyter,github,git,html,css,vscode" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" title="pandas" style="vertical-align:middle; margin-left:8px;"/>
 </p>
 
@@ -58,6 +58,7 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
   <img src="https://img.shields.io/badge/NGS-21a366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bioinformatics-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Genomics | Epigenetics | Transcriptomics-6C3483?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Biotechnology-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML-00BFFF?style=for-the-badge" />
 </p>
 
@@ -89,7 +90,7 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96543,100:904e95&height=120&section=footer&animation=twinkling" />
 </p>
 <p align="center">
   <b>😊 Thanks for visiting my profile! Have a great day! 😊</b>
