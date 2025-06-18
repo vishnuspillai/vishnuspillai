@@ -90,7 +90,7 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96543,100:904e95&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&animation=twinkling" />
 </p>
 <p align="center">
   <b>😊 Thanks for visiting my profile! Have a great day! 😊</b>
