@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Typing SVG Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7A8B8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;M.Sc.+Bioinformatics+Student+%7C+NGS+%E2%9C%A8;Genomics+%E2%9C%94%EF%B8%8F+NGS+%F0%9F%94%A5;Let's+decode+life+together+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7A8B8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;M.Sc.+Bioinformatics+Student+%7C+NGS+%E2%9C%A8;Genomics+%E2%9C%94%EF%B8%8F+NGS+%F0%9F%94%A5;its+all+about+zeroes+and+ones+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 <!-- Animated Wave Banner -->
