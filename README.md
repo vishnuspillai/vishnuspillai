@@ -31,7 +31,7 @@
   </b>
 </p>
 
-As a <b>M.Sc. Bioinformatics student at the University of Kerala</b>, I am passionate about unraveling the secrets of life through the synergy of computational power and biological insight. My academic journey is centered at the intersection of <b>Next Generation Sequencing</b> and <b>genomics</b>, where I strive to turn complex data into meaningful biological discoveries.
+As a <b>Masters Bioinformatics student at the University of Kerala</b>, with another <b>Masters in Biotechnology</b> I am passionate about unraveling the secrets of life through the synergy of computational power and biological insight and bridging the gap between them. My academic journey is centered at the intersection of <b>Next Generation Sequencing</b> and <b>genomics</b>, where I strive to turn complex data into meaningful biological discoveries.
 
 - <b>🔬 Focus Areas:</b> Advanced NGS Data Analysis for biological data, genomics, DNA encoding & decoding  
 - <b>🤝 Collaboration:</b> ML for biological datasets, bioinformatics pipelines.  
@@ -42,7 +42,7 @@ As a <b>M.Sc. Bioinformatics student at the University of Kerala</b>, I am passi
 ---
 
 <blockquote align="center">
-  <i>"Driven by curiosity, powered by code, and inspired by the endless mysteries of biology."</i>
+  <i>"Driven by precision and micropipettes, powered by code, and inspired by the endless mysteries of biology."</i>
 </blockquote>
 
 ---
@@ -50,14 +50,14 @@ As a <b>M.Sc. Bioinformatics student at the University of Kerala</b>, I am passi
 ## 🚀 Tools, Languages & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,tensorflow,pytorch,jupyter,github,git,html,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,tensorflow,pytorch,jupyter,github,git,html,css,vscode" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="40" title="pandas" style="vertical-align:middle; margin-left:8px;"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NGS-21a366?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bioinformatics-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Genomics-6C3483?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Genomics | Epigenetics | Transcriptomics-6C3483?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML-00BFFF?style=for-the-badge" />
 </p>
 
@@ -92,7 +92,7 @@ As a <b>M.Sc. Bioinformatics student at the University of Kerala</b>, I am passi
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=120&section=footer&animation=twinkling" />
 </p>
 <p align="center">
-  <b>Thanks for visiting my profile! Have a great day! 😊</b>
+  <b>😊 Thanks for visiting my profile! Have a great day! 😊</b>
 </p>
 
 <!--
