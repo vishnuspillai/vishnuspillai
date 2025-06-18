@@ -88,6 +88,13 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
 - 🍳 I Cook Good Food
 
 ---
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/SillySnake/github-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/SillySnake/github-snake.svg">
+</picture>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&animation=twinkling" />
@@ -96,12 +103,6 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
   <b>😊 Let's be friends, connect and commit to new codes...! 😊</b>
 </p>
 
-## 🐍 GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/SillySnake/github-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/SillySnake/github-snake.svg">
-</picture>
 
 
 <!--
