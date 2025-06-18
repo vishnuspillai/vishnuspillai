@@ -1,7 +1,6 @@
 <p align="center">
   <!-- Typing SVG Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7A8B8&center=true&vCenter=true&width=600&lines=Hello+There...!;%F0%9F%A4%AD
-+You+can+call+me+The+Vzard+%F0%9F%A4%AD;Masters+in+Bioinformatics+%7C+NGS+%7C+Epigenetics;Masters+in+Biotechnology;Genomics+%7C+Transcriptomics;%F0%9F%94%A5+Machine+Learning+%F0%9F%94%A5;%F0%9F%91%BB+its+all+about+zeroes+and+ones+%F0%9F%91%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F7A8B8&center=true&vCenter=true&width=600&lines=Hello+There...!;You+can+call+me+Vzard;Masters+in+Bioinformatics+%7C+NGS+%7C+Epigenetics;Masters+in+Biotechnology;Genomics+%7C+Transcriptomics;%F0%9F%94%A5+Machine+Learning+%F0%9F%94%A5;%F0%9F%91%BB+its+all+about+zeroes+and+ones+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
 <!-- Animated Wave Banner -->
