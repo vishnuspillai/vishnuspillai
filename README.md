@@ -96,10 +96,13 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
   <b>😊 Let's be friends, connect and commit to new codes...! 😊</b>
 </p>
 
+## 🐍 GitHub Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/output/github-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/dist/github-snake-dark.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/dist/github-snake.svg">
 </picture>
+
 
 <!--
 **vishnuspillai/vishnuspillai** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
