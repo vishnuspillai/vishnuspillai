@@ -91,7 +91,7 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
 ## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/SillySnake/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishnuspilla/vishnuspillai/main/SillySnake/github-snake-dark.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vishnuspillai/vishnuspillai/main/SillySnake/github-snake.svg">
 </picture>
 
