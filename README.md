@@ -36,7 +36,7 @@ As a <b>Masters Bioinformatics student at the University of Kerala</b>, with ano
 - <b>🔬 Focus Areas:</b> Advanced NGS Data Analysis for biological data, genomics, DNA encoding & decoding  
 - <b>🤝 Collaboration:</b> ML for biological datasets, bioinformatics pipelines.  
 - <b>🚀 Open to:</b> Collaborating on innovative NGS pipelines, cutting-edge ML workflow  
-- <b>📫 Connect:</b> <a href="https://www.linkedin.com/in/vishnuspillai04">LinkedIn</a> | vishnuspillai04@gmail.com  | <a href="https://creative-jelly-742789.netlify.app/> Website</a>
+- <b>📫 Connect:</b> <a href="https://www.linkedin.com/in/vishnuspillai04">LinkedIn</a> | vishnuspillai04@gmail.com  | <a href="https://creative-jelly-742789.netlify.app/"> Website</a>
 - <b>🎮 Outside the lab:</b> Stock Markets, Photography Enthusiast & Chef at Home
 
 ---
