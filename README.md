@@ -31,7 +31,7 @@
   </b>
 </p>
 
-<b>Masters Bioinformatician from the University of Kerala being a rank holder in NGS Data Analytics</b>, with another <b>Masters in Biotechnology</b> I am passionate about unraveling the secrets of life through the synergy of computational power and biological insights and bridging the gap between them. My academic journey is centered at the intersection of <b>Next Generation Sequencing</b> and <b>Transcriptomics</b>, where I strive to turn complex data into meaningful biological discoveries. I use AI and I won't allow it to use me..!
+<b>Bioinformatician from the University of Kerala, being a rank holder in NGS Data Analytics</b>, with another <b>Masters in Biotechnology</b> I am passionate about unraveling the secrets of life through the synergy of computational power and biological insights and bridging the gap between them. My academic journey is centered at the intersection of <b>Next Generation Sequencing</b> and <b>Transcriptomics</b>, where I strive to turn complex data into meaningful biological discoveries. I use AI and I won't allow it to use me..!
 
 - <b>🔬 Focus Areas:</b> Advanced NGS Data Analysis for biological data, genomics, DNA encoding & decoding  
 - <b>🤝 Collaboration:</b> ML for biological datasets, bioinformatics pipelines.  
